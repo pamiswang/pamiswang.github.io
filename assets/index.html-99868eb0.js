@@ -1,4 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as i,c as n,f as a}from"./app-8693754a.js";const o={},d=a(`<h1 id="ubuntu-字體安裝" tabindex="-1"><a class="header-anchor" href="#ubuntu-字體安裝" aria-hidden="true">#</a> Ubuntu 字體安裝</h1><h2 id="加入-windows-標楷體" tabindex="-1"><a class="header-anchor" href="#加入-windows-標楷體" aria-hidden="true">#</a> 加入 windows 標楷體</h2><ul><li>找尋 windows 10 的標楷體字體</li><li>路徑 C:\\Windows\\Fonts</li><li>使用 winscp 上傳字體</li><li>上傳到 /usr/share/fonts</li><li>進入系統點開字體點安裝 (適用於桌面版本)</li><li>產生字體索引 (適用於終端機版本)</li></ul><h4 id="產生字體索引指令" tabindex="-1"><a class="header-anchor" href="#產生字體索引指令" aria-hidden="true">#</a> 產生字體索引指令</h4><pre><code>sudo mkfontscale
-sudo mkfontdir
-sudo reboot
-</code></pre>`,5),r=[d];function t(s,c){return i(),n("div",null,r)}const u=e(o,[["render",t],["__file","index.html.vue"]]);export{u as default};
